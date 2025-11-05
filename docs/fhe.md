@@ -39,7 +39,7 @@ This architecture addresses critical problems in blockchain voting systems, buil
 
 ## Privacy with Accountability
 
-10. **FHE enables anonymous voting**: FHE makes the voter's vote anonymous. But allows policing this. The architecture maintains: **VOTING ROLLS** (group of 1,000 voters) <==> **"Accountability Block"** of 1,000 voters <==> **Ballots cast** (on blockchain)
+10. **FHE enables anonymous voting**: FHE makes the voter's vote anonymous. But allows policing this. The architecture maintains: **VOTING ROLLS** (group of 1,000 voters) ? **"Accountability Block"** of 1,000 voters ? **Ballots cast** (on blockchain)
 
 ## Research & References
 
