@@ -1,0 +1,13 @@
+in the file ./FHE.txt is the content I want to add to my Docusaurus website.
+
+~/Dropbox/Code/act3/voting-holon/prompt/FHE.txt 
+
+This work is to do:
+* Create a Markdown file (fhe.md) that explains the part of this covered in the file FHE.txt
+* Create that markdown file in ~/Dropbox/Code/act3/voting-holon/docs/fhe.md
+* Make it a normal markdown file.
+* Don't change the meaning
+* Make it bullet points or a numbered list that maps to the content in FHE.txt.
+* In index.md and voter-rolls.md (located in ~/Dropbox/Code/act3/voting-holon/docs/), create a hyperlink to this file.  The human readable name of the hyperlink should be "FHE Encryption Privacy & Security.
+
+

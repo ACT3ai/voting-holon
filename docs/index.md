@@ -14,6 +14,7 @@ This is the Election Integrity "Voting Holon"
 ## Plans:
 1. [Voter Rolls](./voter-rolls)
 1. Paper Ballet Voting Secured
+1. [FHE Encryption Privacy & Security](./fhe)
 1. [More in the future](./future)
 
 

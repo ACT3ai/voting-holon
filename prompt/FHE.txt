@@ -1,0 +1,20 @@
+I always like @ArtChicken4's (@JovanHPulitzer) work. My future work on blockchain voting will fix something beyond Jovan's wonderful Rumble video on Blockchain voting. My architecture will solve the critical problem:
+1) Right now, "illegitimate ballots" get cast and voted. Jovan often gives the case of 30,000 ballets under the name of undocumented people going to a single address.
+2) It can happen other ways. A pallet of ballets left the printer, and weren't mapped to valid citizens end up "mail in voting".
+3) "Fully Homomorphic Encryption" (FHE) is an advanced branch of encryption. It is very powerful. It can often pair up with Zero Knowledge Proof. (ZKP) 
+4) My fix is VOTING ROLLS (group of 1,000 voters) <==> "Accountability Block" of 1,000 voters <==> Ballots cast (on blockchain)
+5) You group people on the Voting Rolls into a grouping of 1,000 of them (or 5k or 10k).   When they vote, their ballot comes back in.  It is tied back to the "Accountability Block". But with FHE you can't tell which voter.
+6) The lawful part of voting office workers will send ballets to legitimate voters. Those "Accountability Block" show real voters. You trust those votes.
+7) The bad actor has access to the ballet printer.  They get a pallet of 30,000 ballets. They send them off.  They won't be accepted when received because they don't link to an "Accountability Block" of valid eligible voters.
+8) 2nd bad actor scenario.  If the bad actor links them to an accountability block of undocumented people, then they can be rejected. Or the voting office employee that does it, then that person can be held criminally accountable, because their name is tied to sending out the ballets and tying them to an "Accountability Block" of undocumented people. When ballets come back, they will be auto-rejected unless tied to an accountability block, that was created by a real voting office employee vouching for no-fraud (when they sent out ballets). And it will only be valid if the Voter Verification services made sure those mapped voters are really eligible.
+9) We can have several services that are paid to go over Voting rolls. Each service verifies that the voters are valid. No criminal record. Have citizenship. Age 18+. Live in that district. Scrubbing the voter rolls each month going into an election.
+10) FHE makes the voter's vote anonymous. But allows policing this.  VOTING ROLLS (group of 1,000 voters) <==> "Accountability Block" of 1,000 voters <==> Ballots cast (on blockchain)
+11) I won't put the math here. But here are research papers by Microsoft Research and Princeton that best match the FHE encryption math I would use:
+* https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/ftnCCS05.pdf
+* https://news.microsoft.com/on-the-issues/2020/04/13/what-is-homomorphic-encryption-and-how-can-it-help-in-elections/
+* https://www.microsoft.com/en-us/research/podcast/securing-the-vote-with-dr-josh-benaloh/
+* https://eprint.iacr.org/2024/955.pdf
+* https://publ.sec.uni-stuttgart.de/huberkuestersliedtkerausch-iacr-2024-1902.pdf
+* https://www.microsoft.com/en-us/research/wp-content/uploads/2015/11/ManualHE.pdf
+
+https://rumble.com/v6tkruv-blockchain-ballots-or-bullcrap-will-it-secure-our-elections-you-decide-see-.html

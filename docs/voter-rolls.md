@@ -31,6 +31,9 @@
 1. The following 10 B2G software products are used by most local government in the USA: Tyler Technologies Munis ERP, Microsoft 365, SAP S/4HANA, Oracle Cloud ERP, Zoom Video Communications Zoom, Constellation Software Inc. (Harris) SmartFusion, Workday Government Cloud, CGI Group Inc. Advantage, Google Workspace, Accela Civic Platform
 1. The above all work this way with SAML2 to SSO. (Active Directory, etc.)
 
+## Related Topics
+
+* [FHE Encryption Privacy & Security](./fhe)
 
 (VotingHolon.com coming soon)   (Oct 2025)
 
